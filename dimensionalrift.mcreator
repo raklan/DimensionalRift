@@ -12,6 +12,14 @@
       "ids": {
         "1": 2
       }
+    },
+    {
+      "name": "IceCastle",
+      "type": "structure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],

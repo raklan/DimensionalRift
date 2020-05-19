@@ -17,14 +17,14 @@
       "value": "TOOLS"
     },
     "texture": "dimensionalaccess",
-    "portalTexture": "miningdimensionportal",
+    "portalTexture": "iceportal",
     "enablePortal": true,
     "biomesInDimension": [
       {
-        "value": "taiga"
+        "value": "frozen_ocean"
       }
     ],
-    "worldGenType": "Normal world gen",
+    "worldGenType": "Nether like gen",
     "mainFillerBlock": {
       "value": "Blocks.SNOW"
     },

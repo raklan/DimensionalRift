@@ -1,7 +1,7 @@
 {
   "textures": {
-    "particle": "dimensionalrift:blocks/miningdimensionportal",
-    "portal": "dimensionalrift:blocks/miningdimensionportal"
+    "particle": "dimensionalrift:blocks/iceportal",
+    "portal": "dimensionalrift:blocks/iceportal"
   },
   "elements": [
     {
