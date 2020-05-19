@@ -1,0 +1,56 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.ICE"
+    },
+    "portalParticles": {
+      "value": "SNOW_SHOVEL"
+    },
+    "portalLuminance": 0.02,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Winter Dimension Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "dimensionalaccess",
+    "portalTexture": "miningdimensionportal",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "taiga"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.SNOW"
+    },
+    "secondaryFillerBlock": {
+      "value": "Blocks.ICE"
+    },
+    "tertiaryFillerBlock": {
+      "value": "Blocks.FROSTED_ICE"
+    },
+    "fluidBlock": {
+      "value": "Blocks.PACKED_ICE"
+    },
+    "airColor": {
+      "value": -3342337,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "dimensionalrift:winterdimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "dimensionalrift:winterdimension_portal_ns"
+    },
+    "inventory": {
+      "model": "dimensionalrift:winterdimension_portal_ns"
+    }
+  }
+}

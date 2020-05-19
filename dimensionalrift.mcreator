@@ -1,0 +1,41 @@
+{
+  "id_map": {
+    "DIMENSION": 2
+  },
+  "mod_elements": [
+    {
+      "name": "WinterDimension",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 2
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.winterdimension.name": "Winter Dimension Portal Igniter"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "dimensionalrift",
+    "modName": "Dimensional Rift",
+    "version": "1.0.0",
+    "author": "rclca, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "modElementsPackage": "net.mcreator.dimensionalrift",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
